@@ -4,7 +4,7 @@ This exciting game uses HTML5, CSS3, and Javascript - as well as some DOM manipu
 
 <a href="http://sheryak-colorgame.surge.sh/" target="_blank">ColorGame!</a>
 
-To view my portfolio follow the links below;
+You can view my portfolio here;
 <a href="http://sheryak-portfolio.surge.sh/" target="_blank">sheryak-portfolio.surge.sh</a>
 -or-
 <a href="https://n8ers.github.io/portfolio/" target="_blank">n8ers.github.io/portfolio</a>
