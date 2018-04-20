@@ -1,7 +1,6 @@
 This fun game can help you work on your RGB identification skills! 
 It's a part of Colt Steel's online course "The Web Developer Bootcamp". 
-This exciting game features a good deal of Javascript logic, as well as some DOM manipulation. 
-The code is riddled with Event Listeners!
+This exciting game uses HTML5, CSS3, and Javascript - as well as some DOM manipulation and Event Listeners!
 
 <a href="http://sheryak-colorgame.surge.sh/" target="_blank">ColorGame!</a>
 
